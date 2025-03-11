@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "shutdown scripts goes here"
+echo "app stopped!!"
